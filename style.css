@@ -1,0 +1,27 @@
+.panda-btn {
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+
+.panda-bg {
+  background-color: #fceae8;
+}
+
+.panda-color {
+  color: #ff136f;
+}
+
+#tab1 {
+  background-color: #ffa500;
+}
+
+#tab2 {
+  background-color: #da70d6;
+}
+
+#tab3 {
+  background-color: #0000ff;
+}
